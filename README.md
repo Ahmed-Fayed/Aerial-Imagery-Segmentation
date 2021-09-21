@@ -32,3 +32,7 @@ the colors of pred mask is different from true mask bacause i have assigned each
 # Model Loss
 
 ![Aerial_Imagery_Model Loss](https://user-images.githubusercontent.com/31994329/134220770-e88711dd-b355-4e99-adf2-69d948901d77.png)
+
+# Model Performance per Epoch (usng CSVLogger Callback)
+
+[train_performance_per_epoch.csv](https://github.com/Ahmed-Fayed/Aerial-Imagery-Segmentation/files/7205192/train_performance_per_epoch.csv)
