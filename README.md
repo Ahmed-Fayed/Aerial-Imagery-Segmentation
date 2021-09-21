@@ -1,5 +1,5 @@
 # Aerial-Imagery-Segmentation
-Aerial imagery of Dubai obtained by MBRSC satellites (kaggle Dataset) annotated with pixel-wise semantic segmentation in 6 classes. The total volume of the dataset is 72 images grouped into 6 larger tiles. The classes are:
+Aerial imagery of Dubai obtained by MBRSC satellites (kaggle Dataset) annotated with pixel-wise semantic segmentation in 6 classes.
 
 1- Building: #3C1098
 
