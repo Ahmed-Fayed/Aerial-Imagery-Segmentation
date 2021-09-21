@@ -20,6 +20,8 @@ Aerial imagery of Dubai obtained by MBRSC satellites (kaggle Dataset) annotated 
 
 # Predictions
 
+the colors of pred mask is different from true mask bacause i have assigned each class to a specfic integer from 0 to 5 (6 classes) and didn't convert it back to its RGB values
+
 ![Predictions](https://user-images.githubusercontent.com/31994329/134220947-c3e634c3-0530-4068-a01f-05b7dc95f591.png)
 
 
